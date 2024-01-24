@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @alihamzach
 - 👀 I’m interested in doing the WEB DEVELOPMENT Project.
-- 🌱 I’m currently learning FULLSTACK MERN DEVELOPMENT
+- 🌱 I’m currently learning FULLSTACK MERN DEVELOPMENT/ Software engineer
 - 💞️ I’m looking to collaborate on individual projects.
 - 📫 How to reach me: Contact me on LINKED (https://www.linkedin.com/in/alihamza007/)
 
