@@ -10,6 +10,7 @@
 
 Web Development Projects: I'm eager to take on challenging projects that leverage my full-stack skills and contribute to building robust web applications.
 Fullstack MERN Development: I'm expanding my knowledge by exploring the MERN stack (MongoDB, Express.js, React.js, and Node.js) to become a well-rounded full-stack developer.
+
 **Currently Learning**
 
 I'm continuously learning and refining my skills in the ever-evolving world of web development. My current focus is  mastering the New stack to broaden my skill set.
