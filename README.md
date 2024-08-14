@@ -2,7 +2,7 @@
 - 👀 I’m interested in doing the WEB DEVELOPMENT Project.
 - 🌱 I’m currently learning FULLSTACK MERN DEVELOPMENT/ Software engineer
 - 💞️ I’m looking to collaborate on individual projects.
-- 📫 How to reach me: Contact me on LINKED (https://www.linkedin.com/in/alihamza007/)
+- 📫 How to reach me: Contact me on LINKED (https://www.linkedin.com/in/alihamza007/, alihamzach99@gmail.com)
 
 - I'm a passionate web developer with expertise in backend development using Python, Django, and Django REST Framework and strong frontend skills in HTML, CSS, and JavaScript.
 
@@ -14,13 +14,10 @@ Fullstack MERN Development: I'm expanding my knowledge by exploring the MERN sta
 
 I'm continuously learning and refining my skills in the ever-evolving world of web development. My current focus is  mastering the New stack to broaden my skill set.
 
-️ Looking to Collaborate
+️ **Looking to Collaborate**
 
 I'm always open to collaborating on individual projects with other developers. If you have a project in mind, feel free to reach out!
 
-**How to Reach Me**
-
-Connect with me on LinkedIn: https://www.linkedin.com/pub/dir/Ali/Hamza
 
 **Technologies & Skills**
 
