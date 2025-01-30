@@ -1,39 +1,56 @@
-- 👋 Hi, I’m @alihamzach
-- 👀 I’m interested in doing the WEB DEVELOPMENT Project.
-- 🌱 I’m currently learning FULLSTACK MERN DEVELOPMENT/ Software engineer
-- 💞️ I’m looking to collaborate on individual projects.
-- 📫 How to reach me: Contact me on LINKED (https://www.linkedin.com/in/alihamza007/, alihamzach99@gmail.com)
+# Ali Hamza  
+**Data Engineer | Python Developer | Backend Specialist**  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/alihamza007) 
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black)](https://github.com/alihamzach)  
 
-- I'm a passionate web developer with expertise in backend development using Python, Django, and Django REST Framework and strong frontend skills in HTML, CSS, and JavaScript.
+👋 **Hello!** I'm Ali Hamza, a passionate data engineer and Python developer with **1.8+ years of experience**, including **1 year professionally with Django & Django REST Framework (DRF)**. I specialize in building scalable data pipelines, robust backend systems, and RESTful APIs.  
 
-**I'm Interested In**
+---
 
-Web Development Projects: I'm eager to take on challenging projects that leverage my full-stack skills and contribute to building robust web applications.
-Fullstack MERN Development: I'm expanding my knowledge by exploring the MERN stack (MongoDB, Express.js, React.js, and Node.js) to become a well-rounded full-stack developer.
+## 🛠️ Technical Expertise  
+### **Backend & API Development**  
+- **Django/DRF**: Built secure, scalable REST APIs for enterprise applications ( 1 year professional experience).  
+- **Flask & FastAPI**: Developed lightweight microservices and data ingestion endpoints.  
 
-**Currently Learning**
+### **Data Engineering & Python**  
+- **File Operations & Scripting**: Automated ETL workflows using Python.  
+- **Data Analysis**: Proficient in `Pandas`, `Vaex` for large dataset handling.  
+- **Machine Learning**: Implemented TF-IDF, Cosine Similarity, and forecasting models with `scikit-learn`.  
 
-I'm continuously learning and refining my skills in the ever-evolving world of web development. My current focus is  mastering the New stack to broaden my skill set.
+### **Databases & CRUD Operations**  
+- **SQL/MySQL/PostgreSQL**: Optimized queries, designed schemas, and performed complex joins.  
+- **Redis**: Integrated caching mechanisms to enhance application performance.  
 
-️ **Looking to Collaborate**
+### **Advanced Tools**  
+- **STIR/SHAKEN**: Implemented telecom compliance protocols.  
+- **FuzzyWuzzy**: Resolved data inconsistencies via fuzzy string matching.  
 
-I'm always open to collaborating on individual projects with other developers. If you have a project in mind, feel free to reach out!
+---
 
+## 💼 Recent Projects  
+- **DRF-Based Enterprise API**: Developed a scalable customer management system with JWT authentication.  
+- **Credit Card Fraud Detection**: Built scoring models using transaction datasets.  
+- **Database Migration Tool**: Automated MySQL-to-CSV/JSON conversions via Python scripts.  
 
-**Technologies & Skills**
+---
 
-Backend:
-Python
-Django
-Django REST Framework
-Frontend:
-HTML
-CSS
-JavaScript
-**Contributions**
+## 🛠️ Tools & Technologies  
+**Languages**: Python, SQL  
+**Frameworks**: Django, Django REST Framework, Flask, FastAPI, WSGI  
+**Libraries**: Pandas, Vaex, scikit-learn, FuzzyWuzzy  
+**Databases**: MySQL, PostgreSQL, Redis  
+**Tools**: Postman, Git, Jupyter Notebook  
 
-Feel free to contribute to my open-source projects (if applicable). I welcome collaboration and believe in building a strong developer community.
+---
 
+## 📫 How to Reach Me  
+- **Email**: alihamzach99@gmail.com  
+- **LinkedIn**: [linkedin.com/in/yourprofile](https://linkedin.com/in/alihamza007)  
+- **GitHub**: [github.com/yourusername](https://github.com/alihamzach)  
+
+--- 
+
+🔍 **Fun Fact**: I once refactored a Django API to handle 10k+ requests/minute—efficiency is my obsession! 🚀  
 
 
 
