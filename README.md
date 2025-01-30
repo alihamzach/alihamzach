@@ -45,8 +45,8 @@
 
 ## 📫 How to Reach Me  
 - **Email**: alihamzach99@gmail.com  
-- **LinkedIn**: [linkedin.com/in/yourprofile](https://linkedin.com/in/alihamza007)  
-- **GitHub**: [github.com/yourusername](https://github.com/alihamzach)  
+- **LinkedIn**: [linkedin.com/in/alihamza](https://linkedin.com/in/alihamza007)  
+- **GitHub**: [github.com/alihamza](https://github.com/alihamzach)  
 
 --- 
 
